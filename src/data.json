@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Set Jardinería",
+      "price": 3200,
+      "description":
+        "",
+      "stock": 8,
+      "category": "herramientas"
+    },
+    {
+      "id": 2,
+      "name": "Carretilla",
+      "price": 15000,
+      "description":
+        "",
+      "stock": 1,
+      "category": "herramientas"
+    },
+    {
+      "id": 3,
+      "name": "Maceta",
+      "price": 700,
+      "description":
+        "",
+      "stock": 15,
+      "category": "decoracion"
+    },
+    {
+      "id": 4,
+      "name": "Pie nórdico",
+      "price": 1100,
+      "description":
+        "",
+      "stock": 7,
+      "category": "decoracion"
+    }
+  ]
